@@ -1,0 +1,221 @@
+{
+  "App": {
+    "name": "StoryWall"
+  },
+  "Nav": {
+    "home": "Home",
+    "post": "Post",
+    "tools": "Tools",
+    "profile": "Profile",
+    "notifications": "Notifications"
+  },
+  "Common": {
+    "back": "Back",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit",
+    "send": "Send",
+    "close": "Close",
+    "copy": "Copy",
+    "copied": "Copied",
+    "loading": "Loading…",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Min",
+    "seconds": "Sec"
+  },
+  "Home": {
+    "rsvpQuestion": "Will you be attending?",
+    "rsvpDeadline": "By {date}",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "PostMenu": {
+    "postTitle": "Post",
+    "postSubtitle": "Photo or video",
+    "storyTitle": "Story",
+    "storySubtitle": "Quick moment",
+    "musicTitle": "Music",
+    "musicSubtitle": "Suggest a song"
+  },
+  "NewPost": {
+    "title": "New post",
+    "placeholder": "Share a moment, a wish, or photos…",
+    "submit": "Post"
+  },
+  "PostCard": {
+    "moreOptions": "More options",
+    "viewGallery": "View gallery",
+    "likes": "{count} likes",
+    "comments": "{count} comments"
+  },
+  "Comments": {
+    "title": "Comments",
+    "placeholder": "Write a comment…",
+    "send": "Send",
+    "you": "You",
+    "items": [
+      { "author": "Eleni P.", "timeAgo": "3 min ago", "text": "You're wonderful! Today Rhodes is yours too." },
+      { "author": "Nikos M.", "timeAgo": "18 min ago", "text": "There was no other way to start such a beautiful beginning." },
+      { "author": "Alexandros P.", "timeAgo": "2 hours ago", "text": "I watched all of it. Perfect." },
+      { "author": "Maria", "timeAgo": "3 hours ago", "text": "I got emotional. Simply beautiful, the light suited you both." },
+      { "author": "Petros", "timeAgo": "12 hours ago", "text": "\"Keep the outfit\" is either wishful thinking or a threat! 😄" }
+    ]
+  },
+  "StoryViewer": {
+    "previous": "Previous",
+    "next": "Next",
+    "close": "Close"
+  },
+  "Notifications": {
+    "title": "Notifications",
+    "empty": "You're all caught up.",
+    "items": [
+      { "text": "Eleni commented on your photo: \"Magical moment!\"", "timeAgo": "3 min ago" },
+      { "text": "Nikos and Georgia liked your story.", "timeAgo": "48 min ago" },
+      { "text": "Sofia uploaded a new video to the Wedding Wall.", "timeAgo": "2 hours ago" },
+      { "text": "Maria and Giorgos posted an official update.", "timeAgo": "2 hours ago" }
+    ]
+  },
+  "Profile": {
+    "title": "Profile",
+    "fullName": "Full name",
+    "nickname": "Nickname",
+    "email": "Email",
+    "role": "Role at the event",
+    "save": "Save profile"
+  },
+  "Invitation": {
+    "heading": "You're invited",
+    "subheading": "Join us as we celebrate our wedding day.",
+    "cta": "Open StoryWall"
+  },
+  "ToolsHub": {
+    "title": "Tools",
+    "findSeatTitle": "Find your seat",
+    "findSeatDescription": "Easily find your seat at the event",
+    "wishbookTitle": "Wishbook",
+    "wishbookDescription": "Write a wish for the couple",
+    "futureMessagesTitle": "Messages to the future",
+    "futureMessagesDescription": "Unlock on your chosen anniversary"
+  },
+  "Wishbook": {
+    "title": "Wishbook",
+    "subtitle": "Write a wish for the couple",
+    "placeholder": "Your wish for the couple….",
+    "submit": "Send your wish",
+    "items": [
+      { "author": "Sofia & Dimos", "text": "May you walk together, even when the road circles back." },
+      { "author": "Eleni Papadopoulou", "text": "A bright life, with a love that never cuts corners." },
+      { "author": "Benjamin K.", "text": "Wishing you a lifetime of inside jokes and quiet Sunday mornings." }
+    ]
+  },
+  "FutureMessages": {
+    "title": "Messages to the future",
+    "subtitle": "Unlock on your anniversaries",
+    "openInLabel": "Unlocks in",
+    "delayOptions": {
+      "oneMonth": "1 month",
+      "twoMonths": "2 months",
+      "fourMonths": "4 months",
+      "sixMonths": "6 months",
+      "oneYear": "1 year"
+    },
+    "messageLabel": "Your message",
+    "placeholder": "Write a wish, a memory, or something you want the couple to read in the future…",
+    "submit": "Write a message to the future"
+  },
+  "Seating": {
+    "title": "Find your seat",
+    "subtitle": "Type your name exactly as it appears on your invitation",
+    "namePlaceholder": "Your full name",
+    "submit": "Find my seat",
+    "table": "Table",
+    "seat": "Seat"
+  },
+  "Rsvp": {
+    "title": "RSVP",
+    "subtitle": "Confirm your attendance details",
+    "attendingQuestion": "Will you be attending?",
+    "options": {
+      "full": "Ceremony & reception",
+      "ceremonyOnly": "Ceremony only",
+      "receptionOnly": "Reception only",
+      "cannotAttend": "Unfortunately I can't make it"
+    },
+    "adults": "Adults",
+    "children": "Children",
+    "phone": "Phone",
+    "email": "Email",
+    "notes": "Notes",
+    "submit": "Submit"
+  },
+  "Gifts": {
+    "title": "Gift registry",
+    "heading": "Wedding gift registry",
+    "body": "Dear ones, having you near us on our wedding day is the most beautiful gift of all. For those who'd like to offer something more, we've set up a gift registry for the essentials that will help us build our first steps together. Thank you from the bottom of our hearts for your love and your wishes!",
+    "bankName": "National Bank",
+    "ibanLabel": "IBAN"
+  },
+  "Venue": {
+    "title": "Venue",
+    "churchName": "Dormition of the Theotokos Church",
+    "churchAddress": "Ancient Square",
+    "receptionName": "Ktima I Ampelos",
+    "receptionAddress": "Kato Archanes",
+    "mapCta": "Map"
+  },
+  "Schedule": {
+    "title": "Wedding schedule",
+    "intro": "So we're all on the same page — and you don't miss a thing between the church, the rice, and the first dance.",
+    "heading": "Wedding schedule",
+    "items": [
+      { "time": "17:30", "title": "Guest arrival", "subtitle": "At the church entrance" },
+      { "time": "18:30", "title": "Wedding ceremony", "subtitle": "Photos right after the ceremony" },
+      { "time": "20:00", "title": "Reception", "subtitle": "Welcome drinks, dinner and music" },
+      { "time": "21:30", "title": "Cake cutting", "subtitle": "Head to the venue, we'll be waiting" }
+    ]
+  },
+  "Posts": {
+    "items": [
+      {
+        "caption": "The bride's entrance felt like a movie scene. No exaggeration — she really did wear white."
+      },
+      {
+        "caption": "Reached the day we'd been waiting for. Share photos, small videos and wishes — we want to remember the night through your eyes."
+      }
+    ]
+  },
+  "Quiz": {
+    "navTitle": "Quiz",
+    "title": "How well do you know us? Answer and see the results! 🎉",
+    "questionLabel": "Question {current}/{total}",
+    "next": "Next",
+    "resultsHeading": "Here's how you all answered!",
+    "resultsCta": "How you voted",
+    "questions": [
+      {
+        "question": "Where did Maria and Giorgos meet?",
+        "options": ["At a friend's party", "At work", "On a trip to Santorini", "On a dating app"]
+      },
+      {
+        "question": "How long were they engaged before getting married?",
+        "options": ["1 year", "2 years", "3 years", "5 years"]
+      },
+      {
+        "question": "Where did the proposal happen?",
+        "options": ["At a restaurant in Rhodes", "At home", "In Paris", "On a boat in Crete"]
+      },
+      {
+        "question": "What's their shared hobby?",
+        "options": ["Cooking", "Traveling", "Dancing", "Photography"]
+      }
+    ],
+    "results": [
+      { "question": "Where did they meet?", "topAnswer": "On a trip to Santorini", "percentage": 62 },
+      { "question": "How long were they engaged?", "topAnswer": "2 years", "percentage": 58 },
+      { "question": "Where did the proposal happen?", "topAnswer": "In Paris", "percentage": 71 },
+      { "question": "What's their shared hobby?", "topAnswer": "Traveling", "percentage": 75 }
+    ]
+  }
+}
